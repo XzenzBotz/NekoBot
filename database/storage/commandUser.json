@@ -1,0 +1,48 @@
+[
+  {
+    "jid": "6281213304125@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "628988986891@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#owner",
+        "count": 1
+      },
+      {
+        "nama": "#donate",
+        "count": 1
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#toimg",
+        "count": 1
+      },
+      {
+        "nama": "#nulis",
+        "count": 1
+      },
+      {
+        "nama": "#nuliskiri",
+        "count": 1
+      }
+    ]
+  }
+]

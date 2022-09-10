@@ -1,0 +1,21 @@
+{
+    "ownerNumber": "628988986891@s.whatsapp.net",
+    "ownerName": "Akmall Nz",
+    "botName": "NekoBot - MD",
+    "footer": "NekoBotz",
+    "sessionName": "session",
+    "pathimg": "./media/hinata.jpg",
+    "lolkey": "Beli Sendiri",
+    "youtube": "https://youtube.com/channel/UCTan41uoODwP2uU0ORuoy3w",
+    "instagram": "https://instagram.com/xzennz_",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "NekoBotz",
+        "author": "By Akmall Nz"
+    }
+}
